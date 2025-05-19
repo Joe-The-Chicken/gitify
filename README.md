@@ -7,4 +7,4 @@ Itch.io Games
 Other Games
 -
 
-- [GeoSpy (Free Geoguessr Clone)](https://github.com/Joe-The-Chicken/GeoSpy)
+- [GeoSpy (Geoguessr)](https://github.com/Joe-The-Chicken/GeoSpy)
